@@ -59,6 +59,7 @@ h2{
     justify-content: center;
    margin: 60px 10px 0px -40px;
    background-color: red;
+   position: fixed;
 }
 
 
